@@ -43,7 +43,7 @@ for compra in historico:
 
 total_descontos = total_bruto - total_final
 
-print("\n=== RESUMO DO DIA ===")
+print("\n----- RESUMO DO DIA -----")
 print(f"Quantidade de compras: {quantidade}")
 print(f"Total bruto:           R$ {total_bruto:.2f}")
 print(f"Total de descontos:    R$ {total_descontos:.2f}")
