@@ -20,6 +20,10 @@ Este programa simula um PDV (Ponto de Venda) que calcula o valor final de compra
 ```
 python pdv.py
 ```
+ou 
+```
+py pdv.py
+```
 
 ## Tabela de exemplos (casos de teste)
 
