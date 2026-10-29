@@ -15,7 +15,7 @@ while True:
 
     idade = int(input("Idade do cliente: "))
 
-    if idade < 0:
+    if idade <= 1:
         print("Aviso: a idade não pode ser negativa. Tente novamente.\n")
         continue
 
